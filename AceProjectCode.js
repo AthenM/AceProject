@@ -1,8 +1,5 @@
 document.write('Hello World')
 // what is this//
-<<<<<<< HEAD
 //IDK//
-//srs//
-=======
-//IDK//
->>>>>>> master
+//Smokin out the window//
+// yo //
