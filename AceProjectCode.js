@@ -7,3 +7,4 @@ document.write('Hello World')
 =======
 //IDK//
 >>>>>>> master
+// i am not really sure what is happeing//
