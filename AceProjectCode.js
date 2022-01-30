@@ -7,4 +7,8 @@ document.write('Hello World')
 =======
 //IDK//
 >>>>>>> master
+<<<<<<< HEAD
+// i am not really sure what is happeing//
+=======
 // thsi tiem is better//
+>>>>>>> master
