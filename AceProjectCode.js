@@ -7,3 +7,4 @@ document.write('Hello World')
 =======
 //IDK//
 >>>>>>> master
+// thsi tiem is better//
